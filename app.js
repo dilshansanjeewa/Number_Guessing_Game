@@ -23,7 +23,7 @@ let message=document.getElementById("message");
                
                document.getElementById("winGif").innerHTML='';
                winMessage.innerText="";
-               hint.innerText="Hint:- Number is heigh";
+               hint.innerText="Hint:- Number is high";
                message.innerText="YOU LOST !";
                alert("WRONG");
                
